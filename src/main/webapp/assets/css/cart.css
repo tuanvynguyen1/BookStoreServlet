@@ -1,0 +1,10 @@
+.itemCart p{
+	padding: 0;
+	margin: 0;
+}
+.itemCart .name{
+	font-weight: bold;
+}
+.itemCart{
+	margin-bottom: 20px;
+}
